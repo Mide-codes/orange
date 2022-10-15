@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    color: brown !important;
+    font-weight: bold;
+    font-size: 35px;
+}
+.main{
+    position: relative;
+    background: url(images/R.jpg);
+    background-size: cover;
+    height: 80vh;
+    background-position: center;
+    padding: 160px 0 300px;
+}
+.btn1{
+    background: url(images/R.jpg);
+    background-size: cover;
+    position: relative;
+    height: 80vh;
+    background-position: center;
+    padding: 160px 0 300px;
+
+}
+.header{
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+    padding: 10px 0px;
+}
+.main h1{
+    font-size: 100px;
+  
+}
+.just{
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+    
+.line{
+    border: 2px solid blue;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid black;
+    border-bottom: left; 
+}
+
